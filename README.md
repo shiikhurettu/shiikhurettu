@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**shiikhurettu/shiikhurettu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on whatever idea that make me say "wait...thats cool!!!"
 - 🌱 I’m currently learning how systems process data in real time and how complex architectures tick.
 - 👯 Open to collaborating on clever ideas, weird experiments, and ambitious side quests.
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sarvani-a017052b6/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: The possibility that I might be building something that never existed fuels me.
--->
